@@ -1,5 +1,5 @@
 Primeramente instancie la clase scanner 
-luego de esto creo una variable donde voy a almacenar la opcion del usuario que puede ser 1 Operadores 2 Condicionales y 3 ciclos 
+Dentro de la funcion main creo una variable donde voy a almacenar la opcion del usuario que puede ser 1 Operadores 2 Condicionales y 3 ciclos 
 Creo la varialbe opcion principal para determinar la opcion del usuario 
 inicio creando un ciclo Do while dentro del do muestro el menu principal y con un when colocando como condicion la variable opcionPrincipal asi determino cual de las 3 opciones es a la que se va a ingresar y en el while ponemos que opcionPrincipal sea diferente o igual a 99 se finalice
 Dentro de la opcion que eligio el usuario declaramos una variable en donde se va almacenar la opcion del usuario la cual sera usada para determinar el ejercicio que el usuario quierese que se desarrolle
